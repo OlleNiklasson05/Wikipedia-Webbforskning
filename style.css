@@ -112,6 +112,16 @@ nav ul li a{
   cursor: pointer;
 }
 
+.majn .huvudRubriker{
+  margin-left: 20px;
+  font-family: 'Linux Libertine','Georgia','Times',serif;
+  font-size: 2.2em;
+  font-weight: bold;
+  line-height: 1.3;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .majn .txt{
   border-top: 1px solid grey;
   padding-top: 10px;
