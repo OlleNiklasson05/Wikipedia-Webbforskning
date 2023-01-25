@@ -3,8 +3,7 @@
 }
 
 body{
-  background: rgb(248,249,250);
-  background: linear-gradient(0deg, rgba(248,249,250,1) 91%, rgba(0,215,255,0) 100%);
+  background-color: #f6f6f6;
 }
 
 nav img{
@@ -53,11 +52,12 @@ nav ul li a{
   display: block;
   height: 100%;
   padding-bottom: 18px;
+  margin-right: 5px;
 }
 
 .navbar ul{
   list-style-type: none;
-  padding: 0;
+  padding: 10;
 
 }
 
@@ -70,14 +70,14 @@ nav ul li a{
   background-repeat: repeat-x;
   cursor: pointer;
   border-right: 1px solid #a7d7f9;
-  padding-right: 5px;
+  font-size: 0.8125em;
+  padding: 5px;
 }
 
 .navbar .navright ul li{
   box-sizing: border-box;
   display: block;
   float: right;
-  margin-right: 5px;
   background-image: linear-gradient(to top,#77c1f6 0,#e8f2f8 1px,#ffffff 100%);
   background-position: left bottom;
   background-repeat: repeat-x;
@@ -85,16 +85,17 @@ nav ul li a{
   border-right: 1px solid #a7d7f9;
   border-left: 1px solid #a7d7f9;
   padding-right: 5px;
+  font-size: 0.8125em;
+  padding: 5px;
 }
 
 .majn{
   border-top: 1px solid #a7d7f9;
   display: inline-block;
   margin-top: 0px;
-  width: 80%;
+  width: 87%;
   height: 1022px;
   background-color: #ffffff;
-
 }
 
 .majn p{
