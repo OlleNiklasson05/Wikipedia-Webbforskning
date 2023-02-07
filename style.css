@@ -94,7 +94,7 @@ nav ul li a{
   display: inline-block;
   margin-top: 0px;
   width: 87%;
-  height: 1022px;
+  height: 1400px;
   background-color: #ffffff;
 }
 
@@ -144,4 +144,18 @@ nav ul li a{
 
 .innehåll .förtäckning{
   text-decoration: none;
+}
+
+.källordiv{
+  border: 1px solid black;
+}
+
+.källor{
+  text-decoration: none;
+  margin-left: 10px;
+  font-family: 'Linux Libertine','Georgia','Times',serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.3;
+  cursor: pointer;'
 }
